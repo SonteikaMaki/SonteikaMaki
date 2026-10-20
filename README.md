@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Sofya Makarova✨</h1>
+<h1 align="center">Hi there! I'm Makarova Sofia ✨</h1>
 <p align="center">
   <em>Junior Product Analyst / Data Analyst / BI Analyst based in Moscow</em>
 </p>
