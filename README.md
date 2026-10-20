@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Софья Макарова 👋</h1>
+<h1 align="center">Привет! Я Макарова Софья✨</h1>
 <p align="center">
   <em>Junior Product Analyst / Data Analyst / BI Analyst из Москвы</em>
 </p>
@@ -14,7 +14,6 @@
 Я студентка Московского Политеха по направлению «Большие и открытые данные». Специализируюсь на продуктовой и дата-аналитике, умею превращать сырые данные в понятные дашборды и проверять статистические гипотезы.
 
 * 🎯 **Фокус:** продуктовые метрики (LTV, Retention, Churn), A/B-тестирование, SQL и визуализация в Power BI.
-* 📚 **Постоянно учусь:** прохожу курсы по продуктовому менеджменту в VK Education и углубляю матстат в Яндекс Практикуме.
 * 📫 **Как связаться:** [Telegram](https://t.me/emolikesemo) | [Email](mailto:sofiamaki777@gmail.com)
 
 ---
@@ -45,23 +44,6 @@
 * **[A/B-тестирование и проверка гипотез (Pet Project)](https://github.com/SonteikaMaki)**  
   Разведочный анализ данных (EDA) на Python, проверка статистических гипотез и оценка влияния изменений на конверсию и ARPU.
 
-
-## Hi there 👋
-
-<!--
-**SonteikaMaki/SonteikaMaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 
 ### 📈 Статистика GitHub
