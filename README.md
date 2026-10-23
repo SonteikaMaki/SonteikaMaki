@@ -51,9 +51,8 @@ I am a Big & Open Data student at Moscow Polytechnic University. I specialize in
   Interactive Power BI dashboard analyzing salary distributions, experience requirements, geographic trends, and in-demand skills.
 - **[Social Media Engagement & Sentiment Analysis](https://github.com/SonteikaMaki/polytech-powerbi-dashboards)**  
   Media landscape monitoring, audience engagement evaluation, post sentiment analysis, and platform popularity tracking.
-- **[A/B Testing & Hypothesis Validation (Pet Project)](https://github.com/SonteikaMaki)**  
-  Exploratory Data Analysis (EDA) in Python, statistical hypothesis testing, and evaluating feature impacts on conversion rate and ARPU.
-
+- **[Steam Market & Player Insights Analysis](https://github.com/SonteikaMaki/Repos_Steam_project)**  
+  The project demonstrates exploratory Data Analysis (EDA) in Python and exploratory analysis to statistical hypothesis testing and designing advanced SQL data marts.
 ---
 
 ### 📈 GitHub Stats
